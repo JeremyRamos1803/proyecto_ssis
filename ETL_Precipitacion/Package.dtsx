@@ -11,8 +11,8 @@
   DTS:LocaleID="3082"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="138"
-  DTS:VersionGUID="{70B0E08C-09AF-4471-8D96-CED11790B198}">
+  DTS:VersionBuild="160"
+  DTS:VersionGUID="{947E0B32-8854-498C-94B4-D20E26D045CA}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -218,7 +218,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="codigo_estacion"
-              DTS:DTSID="{66FD1ADD-24A8-457A-BDC9-B4DD843EBCB0}"
+              DTS:DTSID="{06F70331-ED9C-443C-A37D-4A7AC72EDF78}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -227,7 +227,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="institucion"
-              DTS:DTSID="{D3F3170B-04E0-4A89-80E3-1781E9EBF53D}"
+              DTS:DTSID="{1B865EA2-2F32-4E74-81FD-3B1E0F56D0E1}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -236,7 +236,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="fuente"
-              DTS:DTSID="{27743714-AEC8-4981-9057-0735EC81CF45}"
+              DTS:DTSID="{19431B48-4B82-4C90-BABB-17B13D24D22D}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -245,7 +245,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="nombre"
-              DTS:DTSID="{4938E277-3F9D-4DC3-9110-9A9198A49B12}"
+              DTS:DTSID="{0C039D3D-F26B-43E3-925B-4C0B6C6A4405}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -254,7 +254,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="altura"
-              DTS:DTSID="{B404BC3C-87ED-40BC-8086-8F0963D6136B}"
+              DTS:DTSID="{803AC937-4B82-4DB4-BD2C-FD7BEE88FD55}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -263,7 +263,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="latitud"
-              DTS:DTSID="{7D00ADE8-5A47-49DF-9A28-818106FFFF79}"
+              DTS:DTSID="{5FBF52AC-5A60-410D-AD12-5356EE4AA35D}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -272,7 +272,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="longitud"
-              DTS:DTSID="{0F1CE76A-D16E-4FA6-8CB8-09EAF242247A}"
+              DTS:DTSID="{7D3AFACA-02D0-40EC-9696-7153B66B845E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -281,7 +281,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="codigo_cuenca"
-              DTS:DTSID="{CEAE4853-DD99-4D5B-840E-1CD0B30A5CEC}"
+              DTS:DTSID="{620BCA93-284B-4E4A-B1CA-C75A2C13D93D}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -290,7 +290,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="nombre_cuenca"
-              DTS:DTSID="{26040D41-1202-4149-A084-071AC3DA8DD9}"
+              DTS:DTSID="{AB4D6144-1F57-45EF-9D8A-FD23DC948941}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -299,7 +299,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="codigo_sub_cuenca"
-              DTS:DTSID="{08504E3F-1FF8-4649-8F7E-59AF50419293}"
+              DTS:DTSID="{B3E73CF2-3EA4-4CFF-B578-54F2A0CB57C6}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -308,7 +308,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="nombre_sub_cuenca"
-              DTS:DTSID="{A575322D-4F8A-4817-B2A6-0E30A68B763F}"
+              DTS:DTSID="{A7084D16-87E2-4B40-B27E-69ED777D3EF1}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -317,7 +317,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="inicio_observaciones"
-              DTS:DTSID="{BEEDF6ED-611B-42E6-94A7-00F6375642B7}"
+              DTS:DTSID="{1C191A83-FB2F-4E15-9083-39A4E43A8916}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -326,7 +326,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="fin_observaciones"
-              DTS:DTSID="{117A207B-A1FC-410B-82C1-2EBCC729785D}"
+              DTS:DTSID="{878B22EC-EDD0-470E-A94F-75055FCA7603}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -335,7 +335,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="cantidad_observaciones"
-              DTS:DTSID="{EF3DF48E-59FD-4BD8-B0A1-0569939D4702}"
+              DTS:DTSID="{ACF07290-8207-4AC4-A2DA-A4C29F34EA30}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -344,7 +344,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="inicio_automatica"
-              DTS:DTSID="{3F90998C-82E2-4EAA-88C5-593846AF70CA}"
+              DTS:DTSID="{1B3F3DE8-A5F8-4785-BC47-9BF34A6420D7}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -353,7 +353,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="fecha"
-              DTS:DTSID="{E7895A34-415C-4F97-A3F7-70F07590DBDF}"
+              DTS:DTSID="{706C19C8-50E3-4006-8687-14009607FCE2}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -362,7 +362,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="medicion "
-              DTS:DTSID="{BFD9D8ED-416E-43EB-A8BA-0A8BB1E4634C}"
+              DTS:DTSID="{D987C422-B0D3-406C-A239-4F75ACBC6BBF}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -375,7 +375,6 @@
       DTS:refId="Package\ETL Dim_Estacion"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
       DTS:DTSID="{0D8A121F-2FC5-4BB9-8B61-FAAA2DEE4741}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -1358,7 +1357,6 @@
       DTS:refId="Package\ETL Dim_Fecha"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
       DTS:DTSID="{FB852945-3CE7-479D-8260-384390E43244}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -2097,6 +2095,18 @@
                       refId="Package\ETL Dim_Fecha\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[fecha]"
                       dataType="dbDate"
                       name="fecha" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Fecha\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[año]"
+                      dataType="i4"
+                      name="año" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Fecha\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[mes]"
+                      dataType="i4"
+                      name="mes" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Fecha\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[día]"
+                      dataType="i4"
+                      name="día" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -2145,7 +2155,6 @@
       DTS:refId="Package\ETL Dim_Fuente"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
       DTS:DTSID="{2BBD31F0-C7FC-4EA5-A786-19E384DD9C8D}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -2934,7 +2943,6 @@
       DTS:refId="Package\ETL Dim_Institucion"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
       DTS:DTSID="{CE63B11C-F904-4633-82C1-6E8A62046BFD}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -3723,7 +3731,6 @@
       DTS:refId="Package\ETL Dim_Jer_Cuenca"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
       DTS:DTSID="{8A71122F-1EEE-45C6-ABE6-EDAD6FAB73C5}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -4353,24 +4360,18 @@
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="codigo_cuenca"
-                      externalMetadataColumnId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[id_padre]"
-                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_cuenca]" />
-                    <inputColumn
-                      refId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[codigo_sub_cuenca]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="codigo_sub_cuenca"
+                      cachedSortKeyPosition="2"
                       externalMetadataColumnId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[codigo]"
-                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_sub_cuenca]" />
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_cuenca]" />
                     <inputColumn
-                      refId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[nombre_sub_cuenca]"
+                      refId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[nombre_cuenca]"
                       cachedCodepage="1252"
                       cachedDataType="str"
                       cachedLength="50"
-                      cachedName="nombre_sub_cuenca"
+                      cachedName="nombre_cuenca"
+                      cachedSortKeyPosition="1"
                       externalMetadataColumnId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[nombre]"
-                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[nombre_sub_cuenca]" />
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_cuenca]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -4422,13 +4423,2119 @@
                 </output>
               </outputs>
             </component>
+            <component
+              refId="Package\ETL Dim_Jer_Cuenca\Sort"
+              componentClassID="Microsoft.Sort"
+              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
+              name="Sort"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
+                  name="EliminateDuplicates">true</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the maximum number of threads to use for sorting."
+                  expressionType="Notify"
+                  name="MaximumThreads">-1</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input]"
+                  name="Sort Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[codigo_estacion]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_estacion"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_estacion]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[altura]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="altura"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[altura]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[latitud]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="latitud"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[latitud]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[longitud]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="longitud"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[longitud]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[cantidad_observaciones]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="cantidad_observaciones"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[cantidad_observaciones]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[institucion]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="institucion"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[institucion]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[fuente]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="fuente"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[fuente]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[nombre]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="nombre"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[nombre]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[codigo_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">2</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[nombre_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="nombre_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[nombre_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[codigo_sub_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_sub_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_sub_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[nombre_sub_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="nombre_sub_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[nombre_sub_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[inicio_observaciones]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="inicio_observaciones"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[inicio_observaciones]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[fin_observaciones]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="fin_observaciones"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[fin_observaciones]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[inicio_automatica]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="inicio_automatica"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[inicio_automatica]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[fecha]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="fecha"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[fecha]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input].Columns[medicion ]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="medicion "
+                      lineageId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[medicion ]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output]"
+                  isSorted="true"
+                  name="Sort Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_estacion]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_estacion]"
+                      name="codigo_estacion">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_estacion]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[altura]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[altura]"
+                      name="altura">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[altura]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[latitud]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[latitud]"
+                      name="latitud">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[latitud]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[longitud]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[longitud]"
+                      name="longitud">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[longitud]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[cantidad_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[cantidad_observaciones]"
+                      name="cantidad_observaciones">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[cantidad_observaciones]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[institucion]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[institucion]"
+                      name="institucion">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[institucion]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[fuente]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[fuente]"
+                      name="fuente">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[fuente]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[nombre]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[nombre]"
+                      name="nombre">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[nombre]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_cuenca]"
+                      name="codigo_cuenca"
+                      sortKeyPosition="2">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_cuenca]"
+                      name="nombre_cuenca"
+                      sortKeyPosition="1">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[nombre_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_sub_cuenca]"
+                      name="codigo_sub_cuenca">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[codigo_sub_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_sub_cuenca]"
+                      name="nombre_sub_cuenca">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[nombre_sub_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_observaciones]"
+                      name="inicio_observaciones">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[inicio_observaciones]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[fin_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[fin_observaciones]"
+                      name="fin_observaciones">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[fin_observaciones]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_automatica]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_automatica]"
+                      name="inicio_automatica">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[inicio_automatica]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[fecha]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[fecha]"
+                      name="fecha">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[fecha]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[medicion ]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output].Columns[medicion ]"
+                      name="medicion ">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output].Columns[medicion ]}</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
           </components>
           <paths>
             <path
               refId="Package\ETL Dim_Jer_Cuenca.Paths[Flat File Source Output]"
-              endId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input]"
+              endId="Package\ETL Dim_Jer_Cuenca\Sort.Inputs[Sort Input]"
               name="Flat File Source Output"
               startId="Package\ETL Dim_Jer_Cuenca\JerCuencaSource.Outputs[Flat File Source Output]" />
+            <path
+              refId="Package\ETL Dim_Jer_Cuenca.Paths[Sort Output]"
+              endId="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2.Inputs[OLE DB Destination Input]"
+              name="Sort Output"
+              startId="Package\ETL Dim_Jer_Cuenca\Sort.Outputs[Sort Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\ETL Dim_Jer_Sub_Cuenca"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{AE7303A9-618A-4501-9F84-5847468FB62C}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="ETL Dim_Jer_Sub_Cuenca"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1"
+              componentClassID="Microsoft.FlatFileSource"
+              contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Source"
+              localeId="3082"
+              name="JerCuencaSource 1"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether zero-length columns are treated as null."
+                  name="RetainNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                  name="FileNameColumnName"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[ExtraccionDatos2]"
+                  connectionManagerRefId="Package.ConnectionManagers[ExtraccionDatos2]"
+                  name="FlatFileConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output]"
+                  name="Flat File Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_estacion]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[codigo_estacion]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_estacion]"
+                      name="codigo_estacion"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[altura]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[altura]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[altura]"
+                      name="altura"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[latitud]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[latitud]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[latitud]"
+                      name="latitud"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[longitud]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[longitud]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[longitud]"
+                      name="longitud"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[cantidad_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[cantidad_observaciones]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[cantidad_observaciones]"
+                      name="cantidad_observaciones"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[institucion]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[institucion]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[institucion]"
+                      name="institucion"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fuente]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[fuente]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fuente]"
+                      name="fuente"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[nombre]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre]"
+                      name="nombre"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[codigo_cuenca]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_cuenca]"
+                      name="codigo_cuenca"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[nombre_cuenca]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_cuenca]"
+                      name="nombre_cuenca"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[codigo_sub_cuenca]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_sub_cuenca]"
+                      name="codigo_sub_cuenca"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[nombre_sub_cuenca]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_sub_cuenca]"
+                      name="nombre_sub_cuenca"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[inicio_observaciones]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_observaciones]"
+                      name="inicio_observaciones"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fin_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[fin_observaciones]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fin_observaciones]"
+                      name="fin_observaciones"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_automatica]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[inicio_automatica]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_automatica]"
+                      name="inicio_automatica"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fecha]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[fecha]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fecha]"
+                      name="fecha"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[medicion ]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="IgnoreFailure"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[medicion ]"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[medicion ]"
+                      name="medicion "
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[codigo_estacion]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="codigo_estacion" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[altura]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="altura" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[latitud]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="latitud" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[longitud]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="longitud" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[cantidad_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="cantidad_observaciones" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[institucion]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="institucion" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[fuente]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="fuente" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[nombre]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="nombre" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[codigo_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="codigo_cuenca" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[nombre_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="nombre_cuenca" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[codigo_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="codigo_sub_cuenca" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[nombre_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="nombre_sub_cuenca" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[inicio_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="inicio_observaciones" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[fin_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="fin_observaciones" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[inicio_automatica]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="inicio_automatica" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[fecha]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="fecha" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].ExternalColumns[medicion ]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="medicion " />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Error Output]"
+                  isErrorOut="true"
+                  name="Flat File Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      codePage="1252"
+                      dataType="text"
+                      description="Flat File Source Error Output Column"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      name="Flat File Source Error Output Column" />
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup"
+              componentClassID="Microsoft.Lookup"
+              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
+              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
+              name="Lookup"
+              usesDispositions="true"
+              version="6">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="Specifies the SQL statement that generates the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[dim_jer_cuenca]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommandParam"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[dim_jer_cuenca]) [refTable]
+where [refTable].[codigo] = ?</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the type of connection used to access the reference dataset."
+                  name="ConnectionType"
+                  typeConverter="LookupConnectionType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the cache type of the lookup table."
+                  name="CacheType"
+                  typeConverter="CacheType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
+                  name="NoMatchBehavior"
+                  typeConverter="LookupNoMatchBehavior">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
+                  name="NoMatchCachePercentage">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
+                  name="MaxMemoryUsage">25</property>
+                <property
+                  dataType="System.Int64"
+                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
+                  name="MaxMemoryUsage64">25</property>
+                <property
+                  dataType="System.String"
+                  description="Indicates whether to reference metadata in an XML format."
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="id" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="id_padre" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="codigo" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1252"/&gt;&lt;referenceColumn name="nombre" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1252"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                <property
+                  containsID="true"
+                  dataType="System.String"
+                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
+                  name="ParameterMap">#{Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_cuenca]};</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
+                  name="TreatDuplicateKeysAsError">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-UMBOGLC\SQLEXPRESS]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-UMBOGLC\SQLEXPRESS]"
+                  description="Connection manager used to access lookup data."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Inputs[Lookup Input]"
+                  name="Lookup Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Inputs[Lookup Input].Columns[codigo_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">codigo</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Match Output]"
+                  errorOrTruncationOperation="Lookup"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="Lookup Match Output"
+                  synchronousInputId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Match Output].Columns[id_padre]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Copy Column"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Match Output].Columns[id_padre]"
+                      name="id_padre"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn">id</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Match Output].Columns[codigo]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Copy Column"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Match Output].Columns[codigo]"
+                      name="codigo"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn">codigo</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup No Match Output]"
+                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
+                  exclusionGroup="1"
+                  name="Lookup No Match Output"
+                  synchronousInputId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Inputs[Lookup Input]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Lookup Error Output"
+                  synchronousInputId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination 2 1"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[dim_jer_cuenca]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-UMBOGLC\SQLEXPRESS]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-UMBOGLC\SQLEXPRESS]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="IgnoreFailure"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].Columns[codigo_sub_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_sub_cuenca"
+                      cachedSortKeyPosition="1"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].ExternalColumns[codigo]"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_sub_cuenca]" />
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].Columns[nombre_sub_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="nombre_sub_cuenca"
+                      cachedSortKeyPosition="2"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].ExternalColumns[nombre]"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_sub_cuenca]" />
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].Columns[id_padre]"
+                      cachedDataType="i4"
+                      cachedName="id_padre"
+                      externalMetadataColumnId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].ExternalColumns[id_padre]"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Match Output].Columns[id_padre]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].ExternalColumns[id]"
+                      dataType="i4"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].ExternalColumns[codigo]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="codigo" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].ExternalColumns[id_padre]"
+                      dataType="i4"
+                      name="id_padre" />
+                    <externalMetadataColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input].ExternalColumns[nombre]"
+                      codePage="1252"
+                      dataType="str"
+                      length="100"
+                      name="nombre" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort"
+              componentClassID="Microsoft.Sort"
+              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
+              name="Sort"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
+                  name="EliminateDuplicates">true</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the maximum number of threads to use for sorting."
+                  expressionType="Notify"
+                  name="MaximumThreads">-1</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input]"
+                  name="Sort Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[codigo_estacion]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_estacion"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_estacion]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[altura]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="altura"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[altura]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[latitud]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="latitud"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[latitud]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[longitud]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="longitud"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[longitud]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[cantidad_observaciones]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="cantidad_observaciones"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[cantidad_observaciones]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[institucion]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="institucion"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[institucion]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[fuente]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="fuente"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fuente]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[nombre]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="nombre"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[codigo_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[nombre_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="nombre_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[codigo_sub_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="codigo_sub_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_sub_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[nombre_sub_cuenca]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="nombre_sub_cuenca"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_sub_cuenca]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">2</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[inicio_observaciones]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="inicio_observaciones"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_observaciones]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[fin_observaciones]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="fin_observaciones"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fin_observaciones]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[inicio_automatica]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="inicio_automatica"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_automatica]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[fecha]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="fecha"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fecha]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input].Columns[medicion ]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="medicion "
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[medicion ]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output]"
+                  isSorted="true"
+                  name="Sort Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_estacion]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_estacion]"
+                      name="codigo_estacion">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_estacion]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[altura]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[altura]"
+                      name="altura">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[altura]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[latitud]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[latitud]"
+                      name="latitud">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[latitud]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[longitud]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[longitud]"
+                      name="longitud">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[longitud]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[cantidad_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[cantidad_observaciones]"
+                      name="cantidad_observaciones">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[cantidad_observaciones]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[institucion]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[institucion]"
+                      name="institucion">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[institucion]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[fuente]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[fuente]"
+                      name="fuente">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fuente]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[nombre]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[nombre]"
+                      name="nombre">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_cuenca]"
+                      name="codigo_cuenca">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_cuenca]"
+                      name="nombre_cuenca">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[codigo_sub_cuenca]"
+                      name="codigo_sub_cuenca"
+                      sortKeyPosition="1">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[codigo_sub_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_sub_cuenca]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[nombre_sub_cuenca]"
+                      name="nombre_sub_cuenca"
+                      sortKeyPosition="2">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[nombre_sub_cuenca]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_observaciones]"
+                      name="inicio_observaciones">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_observaciones]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[fin_observaciones]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[fin_observaciones]"
+                      name="fin_observaciones">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fin_observaciones]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_automatica]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[inicio_automatica]"
+                      name="inicio_automatica">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[inicio_automatica]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[fecha]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[fecha]"
+                      name="fecha">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[fecha]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[medicion ]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output].Columns[medicion ]"
+                      name="medicion ">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output].Columns[medicion ]}</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\ETL Dim_Jer_Sub_Cuenca.Paths[Flat File Source Output]"
+              endId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Inputs[Sort Input]"
+              name="Flat File Source Output"
+              startId="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1.Outputs[Flat File Source Output]" />
+            <path
+              refId="Package\ETL Dim_Jer_Sub_Cuenca.Paths[Lookup Match Output]"
+              endId="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1.Inputs[OLE DB Destination Input]"
+              name="Lookup Match Output"
+              startId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Outputs[Lookup Match Output]" />
+            <path
+              refId="Package\ETL Dim_Jer_Sub_Cuenca.Paths[Sort Output]"
+              endId="Package\ETL Dim_Jer_Sub_Cuenca\Lookup.Inputs[Lookup Input]"
+              name="Sort Output"
+              startId="Package\ETL Dim_Jer_Sub_Cuenca\Sort.Outputs[Sort Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -4437,7 +6544,6 @@
       DTS:refId="Package\ETL Dim_Localidad"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
       DTS:DTSID="{A7C5E15C-B254-4C2D-ADA1-077A171F5A4E}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -5255,6 +7361,13 @@
                       cachedLength="50"
                       cachedName="fecha"
                       lineageId="Package\ETL Hechos\Flat File Source.Outputs[Flat File Source Output].Columns[fecha]" />
+                    <inputColumn
+                      refId="Package\ETL Hechos\Data Conversion.Inputs[Data Conversion Input].Columns[medicion ]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="medicion "
+                      lineageId="Package\ETL Hechos\Flat File Source.Outputs[Flat File Source Output].Columns[medicion ]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -5280,6 +7393,27 @@
                           dataType="System.Int32"
                           description="Specifies the input column used as the source of data for the conversion."
                           name="SourceInputColumnLineageID">#{Package\ETL Hechos\Flat File Source.Outputs[Flat File Source Output].Columns[fecha]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ETL Hechos\Data Conversion.Outputs[Data Conversion Output].Columns[medicion_decimal]"
+                      dataType="decimal"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\ETL Hechos\Data Conversion.Outputs[Data Conversion Output].Columns[medicion_decimal]"
+                      name="medicion_decimal"
+                      scale="2"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\ETL Hechos\Flat File Source.Outputs[Flat File Source Output].Columns[medicion ]}</property>
                         <property
                           dataType="System.Boolean"
                           description="Indicates whether the column uses the faster, locale-neutral parsing routines."
@@ -6167,7 +8301,7 @@ where [refTable].[fecha] = ?</property>
                 <output
                   refId="Package\ETL Hechos\Lookup 1.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="IgnoreFailure"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\ETL Hechos\Lookup 1.Inputs[Lookup Input]">
@@ -6178,7 +8312,7 @@ where [refTable].[fecha] = ?</property>
                       errorOrTruncationOperation="Copy Column"
                       lineageId="Package\ETL Hechos\Lookup 1.Outputs[Lookup Match Output].Columns[id_fecha]"
                       name="id_fecha"
-                      truncationRowDisposition="FailComponent">
+                      truncationRowDisposition="IgnoreFailure">
                       <properties>
                         <property
                           dataType="System.String"
@@ -6327,7 +8461,7 @@ where [refTable].[nombre] = ?</property>
                 <output
                   refId="Package\ETL Hechos\Lookup 2.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="IgnoreFailure"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\ETL Hechos\Lookup 2.Inputs[Lookup Input]">
@@ -6338,7 +8472,7 @@ where [refTable].[nombre] = ?</property>
                       errorOrTruncationOperation="Copy Column"
                       lineageId="Package\ETL Hechos\Lookup 2.Outputs[Lookup Match Output].Columns[id_institucion]"
                       name="id_institucion"
-                      truncationRowDisposition="FailComponent">
+                      truncationRowDisposition="IgnoreFailure">
                       <properties>
                         <property
                           dataType="System.String"
@@ -6498,7 +8632,7 @@ where [refTable].[nombre] = ?</property>
                       errorOrTruncationOperation="Copy Column"
                       lineageId="Package\ETL Hechos\Lookup 3.Outputs[Lookup Match Output].Columns[id_fuente]"
                       name="id_fuente"
-                      truncationRowDisposition="FailComponent">
+                      truncationRowDisposition="IgnoreFailure">
                       <properties>
                         <property
                           dataType="System.String"
@@ -6676,7 +8810,7 @@ where [refTable].[codigo] = ? and [refTable].[nombre] = ?</property>
                       errorOrTruncationOperation="Copy Column"
                       lineageId="Package\ETL Hechos\Lookup 4.Outputs[Lookup Match Output].Columns[id_jer_cuenca]"
                       name="id_jer_cuenca"
-                      truncationRowDisposition="FailComponent">
+                      truncationRowDisposition="IgnoreFailure">
                       <properties>
                         <property
                           dataType="System.String"
@@ -6825,7 +8959,7 @@ where [refTable].[nombre] = ?</property>
                 <output
                   refId="Package\ETL Hechos\Lookup 5.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="IgnoreFailure"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\ETL Hechos\Lookup 5.Inputs[Lookup Input]">
@@ -6836,7 +8970,7 @@ where [refTable].[nombre] = ?</property>
                       errorOrTruncationOperation="Copy Column"
                       lineageId="Package\ETL Hechos\Lookup 5.Outputs[Lookup Match Output].Columns[id_localidad]"
                       name="id_localidad"
-                      truncationRowDisposition="FailComponent">
+                      truncationRowDisposition="IgnoreFailure">
                       <properties>
                         <property
                           dataType="System.String"
@@ -6987,6 +9121,13 @@ where [refTable].[nombre] = ?</property>
                       cachedName="id_localidad"
                       externalMetadataColumnId="Package\ETL Hechos\OLE DB Destination 5.Inputs[OLE DB Destination Input].ExternalColumns[dim_localidad]"
                       lineageId="Package\ETL Hechos\Lookup 5.Outputs[Lookup Match Output].Columns[id_localidad]" />
+                    <inputColumn
+                      refId="Package\ETL Hechos\OLE DB Destination 5.Inputs[OLE DB Destination Input].Columns[medicion_decimal]"
+                      cachedDataType="decimal"
+                      cachedName="medicion_decimal"
+                      cachedScale="2"
+                      externalMetadataColumnId="Package\ETL Hechos\OLE DB Destination 5.Inputs[OLE DB Destination Input].ExternalColumns[medida_precipitacion_acumulada_diaria]"
+                      lineageId="Package\ETL Hechos\Data Conversion.Outputs[Data Conversion Output].Columns[medicion_decimal]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -7124,11 +9265,11 @@ where [refTable].[nombre] = ?</property>
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Restricción 2]"
       DTS:CreationName=""
-      DTS:DTSID="{E4B10407-3241-4C27-A4EC-E4ED709AA630}"
+      DTS:DTSID="{043D8B15-36F8-4BDB-86E4-11B68C8C5BA9}"
       DTS:From="Package\ETL Dim_Jer_Cuenca"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Restricción 2"
-      DTS:To="Package\ETL Dim_Localidad" />
+      DTS:To="Package\ETL Dim_Jer_Sub_Cuenca" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Restricción 3]"
       DTS:CreationName=""
@@ -7153,6 +9294,14 @@ where [refTable].[nombre] = ?</property>
       DTS:LogicalAnd="True"
       DTS:ObjectName="Restricción 5"
       DTS:To="Package\ETL Hechos" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Restricción 6]"
+      DTS:CreationName=""
+      DTS:DTSID="{13523328-F0D6-473D-832F-2D5CA4FD12C3}"
+      DTS:From="Package\ETL Dim_Jer_Sub_Cuenca"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Restricción 6"
+      DTS:To="Package\ETL Dim_Localidad" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--Esta sección CDATA contiene la información de diseño del paquete. Esta sección incluye información como, por ejemplo, las coordenadas (x,y), el ancho y el alto.-->
@@ -7190,6 +9339,10 @@ where [refTable].[nombre] = ?</property>
           Size="175,42"
           Id="Package\ETL Dim_Localidad"
           TopLeft="627.5,135.5" />
+        <NodeLayout
+          Size="139,42"
+          Id="Package\ETL Hechos"
+          TopLeft="414.5,211.5" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción]"
           TopLeft="382.5,96.25">
@@ -7235,42 +9388,8 @@ where [refTable].[nombre] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Restricción 2]"
-          TopLeft="809.5,92.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-7,64"
-              Start="0,0"
-              End="0.5,64">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="18.5,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="18.5,0"
-                    Point2="22.5,0"
-                    Point3="22.5,4" />
-                  <mssgle:LineSegment
-                    End="22.5,60" />
-                  <mssgle:CubicBezierSegment
-                    Point1="22.5,60"
-                    Point2="22.5,64"
-                    Point3="18.5,64" />
-                  <mssgle:LineSegment
-                    End="0.5,64" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción 3]"
-          TopLeft="627.5,158.833333333333">
+          TopLeft="627.5,156">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -7312,10 +9431,6 @@ where [refTable].[nombre] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="139,42"
-          Id="Package\ETL Hechos"
-          TopLeft="414.5,211.5" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción 5]"
           TopLeft="297.5,176.5">
@@ -7350,6 +9465,66 @@ where [refTable].[nombre] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="213,42"
+          Id="Package\ETL Dim_Jer_Sub_Cuenca"
+          TopLeft="838,76" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Restricción 2]"
+          TopLeft="809.5,91.9166666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="28.5,0"
+              Start="0,0"
+              End="21,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="21,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Restricción 6]"
+          TopLeft="838,102.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-35.5,53.8333333333333"
+              Start="0,0"
+              End="-28,53.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-10.9816513761468,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-10.9816513761468,0"
+                    Point2="-14.9816513761468,0"
+                    Point3="-14.9816513761468,4" />
+                  <mssgle:LineSegment
+                    End="-14.9816513761468,49.8333333333333" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-14.9816513761468,49.8333333333333"
+                    Point2="-14.9816513761468,53.8333333333333"
+                    Point3="-18.9816513761468,53.8333333333333" />
+                  <mssgle:LineSegment
+                    End="-28,53.8333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -7359,13 +9534,17 @@ where [refTable].[nombre] = ?</property>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="156,42"
-          Id="Package\ETL Dim_Estacion\EstacionSource"
-          TopLeft="124,30" />
+          Size="177,42"
+          Id="Package\ETL Dim_Estacion\OLE DB Destination"
+          TopLeft="105,165" />
         <NodeLayout
           Size="130,42"
           Id="Package\ETL Dim_Estacion\Aggregate"
           TopLeft="133,100" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\ETL Dim_Estacion\EstacionSource"
+          TopLeft="124,30" />
         <EdgeLayout
           Id="Package\ETL Dim_Estacion.Paths[Flat File Source Output]"
           TopLeft="200,72">
@@ -7388,10 +9567,6 @@ where [refTable].[nombre] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="177,42"
-          Id="Package\ETL Dim_Estacion\OLE DB Destination"
-          TopLeft="105,165" />
         <EdgeLayout
           Id="Package\ETL Dim_Estacion.Paths[Aggregate Output 1]"
           TopLeft="195.75,142">
@@ -7417,6 +9592,19 @@ where [refTable].[nombre] = ?</property>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\ETL Dim_Estacion\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\ETL Dim_Fecha">
     <LayoutInfo>
@@ -7500,13 +9688,13 @@ where [refTable].[nombre] = ?</property>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="148,42"
-          Id="Package\ETL Dim_Fuente\FuenteSource"
-          TopLeft="128,71" />
-        <NodeLayout
           Size="177,42"
           Id="Package\ETL Dim_Fuente\OLE DB Destination 1"
           TopLeft="125,210" />
+        <NodeLayout
+          Size="148,42"
+          Id="Package\ETL Dim_Fuente\FuenteSource"
+          TopLeft="128,71" />
         <NodeLayout
           Size="130,42"
           Id="Package\ETL Dim_Fuente\Aggregate"
@@ -7589,13 +9777,13 @@ where [refTable].[nombre] = ?</property>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="163,42"
-          Id="Package\ETL Dim_Institucion\InstitucionSource"
-          TopLeft="113,73" />
-        <NodeLayout
           Size="177,42"
           Id="Package\ETL Dim_Institucion\OLE DB Destination 1"
           TopLeft="110,212" />
+        <NodeLayout
+          Size="163,42"
+          Id="Package\ETL Dim_Institucion\InstitucionSource"
+          TopLeft="113,73" />
         <NodeLayout
           Size="130,42"
           Id="Package\ETL Dim_Institucion\Aggregate"
@@ -7651,29 +9839,55 @@ where [refTable].[nombre] = ?</property>
     design-time-name="Package\ETL Dim_Jer_Cuenca">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="167,42"
-          Id="Package\ETL Dim_Jer_Cuenca\JerCuencaSource"
-          TopLeft="142,38" />
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="186,42"
           Id="Package\ETL Dim_Jer_Cuenca\OLE DB Destination 2"
-          TopLeft="139,112" />
+          TopLeft="136,204" />
+        <NodeLayout
+          Size="167,42"
+          Id="Package\ETL Dim_Jer_Cuenca\JerCuencaSource"
+          TopLeft="148,41" />
+        <NodeLayout
+          Size="99,42"
+          Id="Package\ETL Dim_Jer_Cuenca\Sort"
+          TopLeft="185,126" />
         <EdgeLayout
           Id="Package\ETL Dim_Jer_Cuenca.Paths[Flat File Source Output]"
-          TopLeft="228.75,80">
+          TopLeft="233,83">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,32"
+              EndConnector="0,43"
               Start="0,0"
-              End="0,24.5">
+              End="0,35.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,24.5" />
+                    End="0,35.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\ETL Dim_Jer_Cuenca.Paths[Sort Output]"
+          TopLeft="231.75,168">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,36"
+              Start="0,0"
+              End="0,28.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,28.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -7704,13 +9918,13 @@ where [refTable].[nombre] = ?</property>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="161,42"
-          Id="Package\ETL Dim_Localidad\LocalidadSource"
-          TopLeft="101,62" />
-        <NodeLayout
           Size="177,42"
           Id="Package\ETL Dim_Localidad\OLE DB Destination 1"
           TopLeft="89,201" />
+        <NodeLayout
+          Size="161,42"
+          Id="Package\ETL Dim_Localidad\LocalidadSource"
+          TopLeft="101,62" />
         <NodeLayout
           Size="130,42"
           Id="Package\ETL Dim_Localidad\Aggregate"
@@ -7781,61 +9995,45 @@ where [refTable].[nombre] = ?</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="124,42"
-          Id="Package\ETL Hechos\Lookup 2"
-          TopLeft="401,70" />
-        <NodeLayout
-          Size="115,42"
-          Id="Package\ETL Hechos\Lookup 3"
-          TopLeft="402,153" />
-        <NodeLayout
-          Size="115,42"
-          Id="Package\ETL Hechos\Lookup 5"
-          TopLeft="548,74" />
-        <NodeLayout
-          Size="177,42"
-          Id="Package\ETL Hechos\OLE DB Destination 5"
-          TopLeft="683,160" />
-        <NodeLayout
-          Size="115,42"
-          Id="Package\ETL Hechos\Lookup 4"
-          TopLeft="555,160" />
+          Size="167,42"
+          Id="Package\ETL Hechos\Derived Column 5"
+          TopLeft="690,77" />
         <NodeLayout
           Size="115,42"
           Id="Package\ETL Hechos\Lookup"
           TopLeft="59,148" />
         <NodeLayout
           Size="124,42"
-          Id="Package\ETL Hechos\Lookup 1"
-          TopLeft="253,66" />
+          Id="Package\ETL Hechos\Lookup 2"
+          TopLeft="401,70" />
+        <NodeLayout
+          Size="115,42"
+          Id="Package\ETL Hechos\Lookup 4"
+          TopLeft="555,160" />
+        <NodeLayout
+          Size="177,42"
+          Id="Package\ETL Hechos\OLE DB Destination 5"
+          TopLeft="683,160" />
+        <NodeLayout
+          Size="115,42"
+          Id="Package\ETL Hechos\Lookup 5"
+          TopLeft="548,74" />
         <NodeLayout
           Size="156,42"
           Id="Package\ETL Hechos\Flat File Source"
           TopLeft="24,56" />
-        <EdgeLayout
-          Id="Package\ETL Hechos.Paths[Lookup Match Output]"
-          TopLeft="377,89">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="24,0"
-              Start="0,0"
-              End="16.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="16.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-39.94138671875,5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+        <NodeLayout
+          Size="115,42"
+          Id="Package\ETL Hechos\Lookup 3"
+          TopLeft="402,153" />
+        <NodeLayout
+          Size="161,42"
+          Id="Package\ETL Hechos\Data Conversion"
+          TopLeft="188,151" />
+        <NodeLayout
+          Size="124,42"
+          Id="Package\ETL Hechos\Lookup 1"
+          TopLeft="253,66" />
         <EdgeLayout
           Id="Package\ETL Hechos.Paths[Lookup Match Output1]"
           TopLeft="461.25,112">
@@ -7861,26 +10059,152 @@ where [refTable].[nombre] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\ETL Hechos.Paths[Lookup Match Output2]"
-          TopLeft="517,177.5">
+          Id="Package\ETL Hechos.Paths[Lookup Match Output]"
+          TopLeft="377,89">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="38,0"
+              EndConnector="24,0"
               Start="0,0"
-              End="30.5,0">
+              End="16.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="30.5,0" />
+                    End="16.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-32.94138671875,5,96.3827734375,11.609375"
+              BoundingBox="-39.94138671875,5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\ETL Hechos.Paths[Flat File Source Output]"
+          TopLeft="100.333333333333,98">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,50"
+              Start="0,0"
+              End="0,42.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\ETL Hechos.Paths[Derived Column Output]"
+          TopLeft="772.5,119">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,41"
+              Start="0,0"
+              End="0,33.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\ETL Hechos.Paths[Data Conversion Output]"
+          TopLeft="294.833333333333,151">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,-43"
+              Start="0,0"
+              End="0,-35.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-35.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\ETL Hechos.Paths[Lookup Match Output5]"
+          TopLeft="663,96.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="27,0"
+              Start="0,0"
+              End="19.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="19.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-38.44138671875,5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\ETL Hechos.Paths[Lookup Match Output4]"
+          TopLeft="134.333333333333,148">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="134.166666666667,3"
+              Start="0,0"
+              End="134.166666666667,-4.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-18.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,-18.5"
+                    Point2="0,-22.5"
+                    Point3="4,-22.5" />
+                  <mssgle:LineSegment
+                    End="130.166666666667,-22.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="130.166666666667,-22.5"
+                    Point2="134.166666666667,-22.5"
+                    Point3="134.166666666667,-18.5" />
+                  <mssgle:LineSegment
+                    End="134.166666666667,-4.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="18.8919466145835,-17.5,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -7920,150 +10244,63 @@ where [refTable].[nombre] = ?</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="161,42"
-          Id="Package\ETL Hechos\Data Conversion"
-          TopLeft="188,151" />
         <EdgeLayout
-          Id="Package\ETL Hechos.Paths[Lookup Match Output4]"
-          TopLeft="134.333333333333,148">
+          Id="Package\ETL Hechos.Paths[Lookup Match Output2]"
+          TopLeft="517,177.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="134.166666666667,3"
+              EndConnector="38,0"
               Start="0,0"
-              End="134.166666666667,-4.5">
+              End="30.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-18.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,-18.5"
-                    Point2="0,-22.5"
-                    Point3="4,-22.5" />
-                  <mssgle:LineSegment
-                    End="130.166666666667,-22.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="130.166666666667,-22.5"
-                    Point2="134.166666666667,-22.5"
-                    Point3="134.166666666667,-18.5" />
-                  <mssgle:LineSegment
-                    End="134.166666666667,-4.5" />
+                    End="30.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="18.8919466145833,-17.5,96.3827734375,11.609375"
+              BoundingBox="-32.94138671875,5,96.3827734375,11.609375"
               RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\ETL Hechos.Paths[Data Conversion Output]"
-          TopLeft="294.833333333333,151">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,-43"
-              Start="0,0"
-              End="0,-35.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-35.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\ETL Hechos.Paths[Flat File Source Output]"
-          TopLeft="100.333333333333,98">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,50"
-              Start="0,0"
-              End="0,42.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,42.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="167,42"
-          Id="Package\ETL Hechos\Derived Column 5"
-          TopLeft="690,77" />
-        <EdgeLayout
-          Id="Package\ETL Hechos.Paths[Lookup Match Output5]"
-          TopLeft="663,96.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="27,0"
-              Start="0,0"
-              End="19.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="19.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-38.44138671875,5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\ETL Hechos.Paths[Derived Column Output]"
-          TopLeft="772.5,119">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,41"
-              Start="0,0"
-              End="0,33.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,33.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
+    design-time-name="Package\ETL Hechos\Lookup">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[dim_estacion]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
     design-time-name="Package\ETL Hechos\Lookup 2">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -8073,7 +10310,7 @@ where [refTable].[nombre] = ?</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -8081,45 +10318,22 @@ where [refTable].[nombre] = ?</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\ETL Hechos\Lookup 3">
+    design-time-name="Package\ETL Hechos\Lookup 4">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
         <Value
-          type="q3:string">[dbo].[dim_fuente]</Value>
+          type="q3:string">[dbo].[dim_jer_cuenca]</Value>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\ETL Hechos\Lookup 5">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[dim_localidad]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -8140,7 +10354,180 @@ where [refTable].[nombre] = ?</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\ETL Hechos\Lookup 4">
+    design-time-name="Package\ETL Hechos\Lookup 5">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[dim_localidad]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\ETL Hechos\Lookup 3">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[dim_fuente]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\ETL Hechos\Lookup 1">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\ETL Dim_Jer_Sub_Cuenca">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="167,42"
+          Id="Package\ETL Dim_Jer_Sub_Cuenca\JerCuencaSource 1"
+          TopLeft="139,21" />
+        <NodeLayout
+          Size="195,42"
+          Id="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1"
+          TopLeft="137,202" />
+        <NodeLayout
+          Size="99,42"
+          Id="Package\ETL Dim_Jer_Sub_Cuenca\Sort"
+          TopLeft="188,74" />
+        <EdgeLayout
+          Id="Package\ETL Dim_Jer_Sub_Cuenca.Paths[Flat File Source Output]"
+          TopLeft="222.5,63">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-34.5,32"
+              Start="0,0"
+              End="-27,32">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,28" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,28"
+                    Point2="0,32"
+                    Point3="-4,32" />
+                  <mssgle:LineSegment
+                    End="-27,32" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="115,42"
+          Id="Package\ETL Dim_Jer_Sub_Cuenca\Lookup"
+          TopLeft="183,140" />
+        <EdgeLayout
+          Id="Package\ETL Dim_Jer_Sub_Cuenca.Paths[Sort Output]"
+          TopLeft="239,116">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,24"
+              Start="0,0"
+              End="0,16.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\ETL Dim_Jer_Sub_Cuenca.Paths[Lookup Match Output]"
+          TopLeft="183,161">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="51.5,41"
+              Start="0,0"
+              End="51.5,33.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="47.5,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="47.5,0"
+                    Point2="51.5,0"
+                    Point3="51.5,4" />
+                  <mssgle:LineSegment
+                    End="51.5,33.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="3.30861328125,-17.609375,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\ETL Dim_Jer_Sub_Cuenca\OLE DB Destination 2 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\ETL Dim_Jer_Sub_Cuenca\Lookup">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
@@ -8159,52 +10546,6 @@ where [refTable].[nombre] = ?</property>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\ETL Hechos\Lookup">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[dim_estacion]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\ETL Hechos\Lookup 1">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\ETL Dim_Estacion\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
